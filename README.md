@@ -1,6 +1,6 @@
 # Mirages多说CSS
 > 版本：beta
->感谢作者[Hran](https://hran.me/)
+感谢作者[Hran](https://hran.me/)
 
 ## Demo
 [Demo](http://bizhi.chainwon.com/?i=523)
@@ -12,4 +12,4 @@
 
 ## 演示截图
 
-<img src="https://raw.githubusercontent.com/Hodpel/Mirages-Duoshuo/masterDEMO.png">
+<img src="https://raw.githubusercontent.com/Hodpel/Mirages-Duoshuo/master/DEMO.png">
