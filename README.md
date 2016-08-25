@@ -3,7 +3,7 @@
 感谢作者[Hran](https://hran.me/)
 
 ## Demo
-[Demo](http://bizhi.chainwon.com/?i=523)
+[Demo](http://www.hodpel.tk/duoshuo-preview/)
 
 ## 特性
 
